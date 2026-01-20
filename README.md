@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Web-Application**
 
-- 🌱 I’m currently learning **MERN Stack, Python, Javascript**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Cloud computing**
 
 - 👯 I’m looking to collaborate on **Website Projects**
 
-- 🤝 I’m looking for help with **Full Stack Projects**
+- 🤝 I’m looking for help with **My Projects**
 
-- 💬 Ask me about **react, Python**
+- 💬 Ask me about **Cloud, Web Development**
 
 - 📫 How to reach me **akshayt1028@gmail.com**
 
