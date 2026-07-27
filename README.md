@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web-Application**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Cloud computing**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Cloud computing, Python**
 
 - 👯 I’m looking to collaborate on **Website Projects**
 
