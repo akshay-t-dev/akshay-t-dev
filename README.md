@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay T</h1>
 
 <h3 align="center">
-Full-Stack Developer • MERN • Next.js • TypeScript • Cloud
+• MERN • Next.js • Python • Cloud
 </h3>
 
 <p align="center">
@@ -16,11 +16,11 @@ Full-Stack Developer • MERN • Next.js • TypeScript • Cloud
 
 I'm a developer focused on building **modern, scalable web applications**.
 
-* 🚀 Currently building **MERN & Next.js applications**
+* 🚀 Currently building **Next.js applications**
 * 🌱 Learning and improving my skills in **TypeScript, Python & Cloud**
 * ☁️ Interested in **Cloud Computing & scalable architectures**
-* 🤝 Open to collaborating on **Web & Full-Stack projects**
-* 💬 Ask me about **MERN, Next.js, TypeScript, Python & Cloud**
+* 🤝 Open to collaborating on **Web projects**
+* 💬 Ask me about **Next.js, TypeScript, Python & Cloud**
 * 📫 Reach me at **[akshayt1028@gmail.com](mailto:akshayt1028@gmail.com)**
 
 ---
@@ -50,7 +50,7 @@ I'm a developer focused on building **modern, scalable web applications**.
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/akshay-t-997b5634b">
+  <a href="https://linkedin.com/in/akshay--t">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;
@@ -73,7 +73,7 @@ I'm a developer focused on building **modern, scalable web applications**.
 ### 🚀 What I'm Working On
 
 ```text
-MERN Stack        ████████████████████  Building
+
 Next.js           ██████████████████░░  Building
 TypeScript        ████████████████░░░░  Learning
 Python            ███████████████░░░░░  Learning
