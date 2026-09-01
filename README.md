@@ -64,8 +64,8 @@ I'm a developer focused on building **modern, scalable web applications**.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshay-t-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-t-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mransif&show_icons=true&theme=tokyonight&count_private=true" height="160em"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mransif&layout=compact&theme=tokyonight" height="160em"/>
 </p>
 
 ---
