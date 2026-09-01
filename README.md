@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay T</h1>
 
 <h3 align="center">
-• MERN • Next.js • Python • Cloud
+• Python • Next.js • Cloud •
 </h3>
 
 <p align="center">
