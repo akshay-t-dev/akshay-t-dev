@@ -65,7 +65,7 @@ I'm a developer focused on building **modern, scalable web applications**.
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=mransif&show_icons=true&theme=tokyonight&count_private=true" height="160em"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mransif&layout=compact&theme=tokyonight" height="160em"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=akshay-t-dev&layout=compact&theme=tokyonight" height="160em"/>
 </p>
 
 ---
